@@ -1,5 +1,5 @@
 # testpackagemds 0.1.0
-A package created to try a GitHub Actions workflow
+A package created to try a GitHub Actions workflow!
 
 ## Installation
 

@@ -2,7 +2,7 @@
 name = "testpackagemds"
 version = "0.1.0"
 description = "Calculate words  in a text file!"
-authors = ["Florencia. Test based in Tomas Beuzen work"]
+authors = ["Florencia"]
 license = "MIT"
 readme = "README.md"
 

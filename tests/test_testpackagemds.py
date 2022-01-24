@@ -1,6 +1,6 @@
-from pycounts_tb.pycounts_tb import count_words
-from pycounts_tb.plotting import plot_words
-from pycounts_tb.datasets import get_flatland
+from testpackagemds.testpackagemds import count_words
+from testpackagemds.plotting import plot_words
+from testpackagemds.datasets import get_flatland
 from collections import Counter
 import matplotlib
 import pytest

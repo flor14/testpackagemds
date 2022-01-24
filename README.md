@@ -9,7 +9,7 @@ $ pip install testpackagemds
 
 ## Usage
 
-- TODO
+
 
 ## Contributing
 

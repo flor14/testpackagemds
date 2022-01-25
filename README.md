@@ -1,4 +1,7 @@
 # testpackagemds 0.1.0
+
+[![ci-cd](https://github.com/flor14/testpackagemds/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/flor14/testpackagemds/actions/workflows/ci-cd.yml)
+
 A package created to try a GitHub Actions workflow!
 
 ## Installation

@@ -76,6 +76,14 @@ jobs:
         repository_url: https://test.pypi.org/legacy/
         skip_existing: true
 
+    - name: Disable admin branch protection
+      uses: benjefferies/branch-protection-bot@master
+      if: always()
+      with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          branch: main
+          enforce_admins: false
+
     - name: Test install from TestPyPI
       run: |
           pip install \

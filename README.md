@@ -1,4 +1,4 @@
-# testpackagemds v0.1.0
+# testpackagemds 
 
 A package created to try a GitHub Actions workflow! :)
 

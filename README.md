@@ -1,5 +1,10 @@
 # testpackagemds 
 
+
+[![codecov](https://codecov.io/gh/flor14/testpackagemds/branch/main/graph/badge.svg)](https://codecov.io/gh/flor14/testpackagemds)
+
+
+
 A package created to try a GitHub Actions workflow! :)
 
 
